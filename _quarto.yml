@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Clark Xu"
+  favicon: images/loopy.jpeg
   navbar:
     background: primary
     search: true
