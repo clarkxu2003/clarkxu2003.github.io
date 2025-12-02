@@ -1,11 +1,10 @@
 ---
-title: "clarkxu2003.github.io"
+title: "<Clark Xu>"
+about:
+  template: jolla
+  image: images/Grad_photo.JPG
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/clarkxu2003
 ---
-
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
