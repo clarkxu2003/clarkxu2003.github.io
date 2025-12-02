@@ -5,11 +5,24 @@ project:
 website:
   title: "Clark Xu"
   navbar:
+    background: primary
+    search: true
     left:
       - href: index.qmd
-        text: Home
+        text: " "
+        icon: house-door-fill
       - courses.qmd
+      - sidebar:projects
 
+  sidebar:
+    - id: projects
+      title: "Projects"
+      style: "docked"
+      background: light
+      collapse-level: 2
+      contents:
+        - projects/project1.qmd
+        - projects/project2.qmd
 
 format:
   html:

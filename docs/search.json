@@ -26,5 +26,35 @@
     "title": "courses",
     "section": "Past Courses",
     "text": "Past Courses"
+  },
+  {
+    "objectID": "projects/project2.html#committee",
+    "href": "projects/project2.html#committee",
+    "title": "Master Research Project",
+    "section": "Committee",
+    "text": "Committee",
+    "crumbs": [
+      "Master Research Project"
+    ]
+  },
+  {
+    "objectID": "projects/project2.html#links",
+    "href": "projects/project2.html#links",
+    "title": "Master Research Project",
+    "section": "Links",
+    "text": "Links",
+    "crumbs": [
+      "Master Research Project"
+    ]
+  },
+  {
+    "objectID": "projects/project1.html#links",
+    "href": "projects/project1.html#links",
+    "title": "Undergradute Research Project",
+    "section": "Links",
+    "text": "Links",
+    "crumbs": [
+      "Undergradute Research Project"
+    ]
   }
 ]
