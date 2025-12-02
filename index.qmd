@@ -8,3 +8,7 @@ about:
       text: Github
       href: https://github.com/clarkxu2003
 ---
+
+**Graduate Student in Electrical and Computer Engineering**
+
+University of British Columbia
